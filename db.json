@@ -1,0 +1,28 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Money Heist",
+      "director": "Pinarayi vijayan",
+      "releaseYear": "2024"
+    },
+    {
+      "id": 2,
+      "title": "But why",
+      "director": "vineeth sreenivassan",
+      "releaseYear": "2020"
+    },
+    {
+      "id": 3,
+      "title": "one love",
+      "director": "Steave jobs",
+      "releaseYear": "2020"
+    },
+    {
+      "id": 4,
+      "title": "katha parayumpol",
+      "director": "modhi jee",
+      "releaseYear": "2022"
+    }
+  ]
+}
